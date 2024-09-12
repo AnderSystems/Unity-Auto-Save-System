@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Auto Save System",
   "description": "A practical and easy-to-configure solution for automatically saving your scenes in Unity.",
-  "unity": "2021.1.0",
+  "unity": "2021.1",
   "author": {
     "name": "AnderSystems",
     "email": "socialander@gmail.com"
