@@ -1,11 +1,11 @@
 {
-    "name": "com.andersystems.autosave",
-    "version": "1.0.0",
-    "displayName": "Auto Save System",
-    "description": "The Auto Save System is a practical and easy-to-configure solution for automatically saving your scenes in Unity. With an intuitive interface directly in the editor, you can define where scenes are saved and restore the last saved scene automatically when needed",
-    "unity": "2021",
-    "author": {
-      "name": "AnderSystems",
-      "email": "socialander@gmail.com"
-    }
+  "name": "com.andersystems.autosave",
+  "version": "1.0.0",
+  "displayName": "Auto Save System",
+  "description": "A practical and easy-to-configure solution for automatically saving your scenes in Unity.",
+  "unity": "2021.1.0",
+  "author": {
+    "name": "AnderSystems",
+    "email": "socialander@gmail.com"
   }
+}
